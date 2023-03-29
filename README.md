@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [eNoteBook Sante project](https://github.com/EtoumiAristide/DI-Bootcamp-Week11-Week12-FinalProject-eNotebookFrontend.git)
 
-- 👨‍💻 All of my projects are available at [https://etoumiaristide.github.io/Portfolio/](https://etoumiaristide.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at: [https://etoumiaristide.github.io/Portfolio/](https://etoumiaristide.github.io/Portfolio/)
 
 - 💬 Ask me about **PHP, Angular, Javascript, Typescript, Java, Spring Boot, Laravel, CodeIgniter, Slim, HTML, CSS, Bootstrap**
 
-- 📫 How to reach me **aetoumi@gmail.com**
+- 📫 How to reach me: **aetoumi@gmail.com**
 
-- 📄 Know about my experiences [I'm a software developer with about 5 years experience in front and web development. I've build many software in domain of web, desktop and mobile. I've focused on Java language but I know also PHP and web languages such as HTML, CSS and Javascript. Frameworks that I use is Angular and Bootstrap for web front-end and Sring Boot, Laravel, CodeIgniter and Slim for Back-end. I'm open to work on passionate projects that match my skills and you can contact me if you need my knowledge. Thank you 😊](I'm a software developer with about 5 years experience in front and web development. I've build many software in domain of web, desktop and mobile. I've focused on Java language but I know also PHP and web languages such as HTML, CSS and Javascript. Frameworks that I use is Angular and Bootstrap for web front-end and Sring Boot, Laravel, CodeIgniter and Slim for Back-end. I'm open to work on passionate projects that match my skills and you can contact me if you need my knowledge. Thank you 😊)
+- 📄 Know about my experiences: **I'm a software developer with about 5 years experience in front and web development. I've build many software in domain of web, desktop and mobile. I've focused on Java language but I know also PHP and web languages such as HTML, CSS and Javascript. Frameworks that I use is Angular and Bootstrap for web front-end and Sring Boot, Laravel, CodeIgniter and Slim for Back-end. I'm open to work on passionate projects that match my skills and you can contact me if you need my knowledge. Thank you 😊**
 
 - ⚡ Fun fact **Play video game, watching Manga and anime, reading spiritual book**
 
