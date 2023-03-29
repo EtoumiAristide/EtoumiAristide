@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etoumiaristide" alt="etoumiaristide" /></a> </p>
 
+- 🔭 I’m currently working on [eNoteBook Sante project](https://github.com/EtoumiAristide/DI-Bootcamp-Week11-Week12-FinalProject-eNotebookFrontend.git)
+
 - 👨‍💻 All of my projects are available at [https://etoumiaristide.github.io/Portfolio/](https://etoumiaristide.github.io/Portfolio/)
 
 - 💬 Ask me about **PHP, Angular, Javascript, Typescript, Java, Spring Boot, Laravel, CodeIgniter, Slim, HTML, CSS, Bootstrap**
@@ -17,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/etoumiaristide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/etoumiaristide" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https:bertrand-aristide-etoumi-b0875a101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:bertrand-aristide-etoumi-b0875a101/" height="30" width="40" /></a>
+<a href="https://dev.to/etoumiaristide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="etoumiaristide" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bertrand-aristide-etoumi-b0875a101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bertrand-aristide-etoumi-b0875a101/" height="30" width="40" /></a>
 <a href="https://fb.com/bertrandaristide.etoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bertrandaristide.etoumi" height="30" width="40" /></a>
 <a href="https://instagram.com/bertrandaristide.etoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bertrandaristide.etoumi" height="30" width="40" /></a>
 </p>
