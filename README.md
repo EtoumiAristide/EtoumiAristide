@@ -21,8 +21,6 @@
 <p align="left">
 <a href="https://dev.to/etoumiaristide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="etoumiaristide" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bertrand-aristide-etoumi-b0875a101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bertrand-aristide-etoumi-b0875a101/" height="30" width="40" /></a>
-<a href="https://fb.com/bertrandaristide.etoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bertrandaristide.etoumi" height="30" width="40" /></a>
-<a href="https://instagram.com/bertrandaristide.etoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bertrandaristide.etoumi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
