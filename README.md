@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aristide Etoumi a.k.a EL PANDOR</h1>
-<h3 align="center">A passionate Fullstack developer from Ivory Coast</h3>
+<h3 align="center">A Fullstack developer from Ivory Coast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etoumiaristide&label=Profile%20views&color=0e75b6&style=flat" alt="etoumiaristide" /> </p>
 
